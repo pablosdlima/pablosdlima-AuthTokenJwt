@@ -1,0 +1,1 @@
+https://balta.io/artigos/aspnet-5-autenticacao-autorizacao-bearer-jwt
